@@ -58,7 +58,6 @@
     "vue2-dropzone": "^3.6.0",
     "vuex": "^3.5.1",
     "vuex-module-decorators": "^1.0.1",
-    "xe-utils": "^3.0.2",
     "xlsx": "^0.16.8",
     "xlsx-style": "^0.8.13",
     "xlsx-style-correct": "^1.0.0"
@@ -123,7 +122,7 @@
     "webpack": "^4.0.0"
   },
   "bugs": {
-    "url": "https://github.com/zhengfeiwen/hs-elementui-docs/issues"
+    "url": "https://github.com/zhengfeiwen/em-ui-docs/issues"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
@@ -131,9 +130,7 @@
   "keywords": [
     "vue",
     "typescript",
-    "admin",
-    "template",
-    "element-ui"
+    "template"
   ],
   "lint-staged": {
     "*.{js,jsx,vue,ts,tsx}": [
@@ -142,6 +139,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhengfeiwen/hs-elementui-docs.git"
+    "url": "git+https://github.com/zhengfeiwen/em-ui-docs.git"
   }
 }

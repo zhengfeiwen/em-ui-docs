@@ -15,8 +15,6 @@ import '@/utils/error-log'
 import * as directives from '@/directives'
 import * as filters from '@/filters'
 
-import 'xe-utils'
-
 import 'prismjs/themes/prism.css'
 import '@/styles/markdown-segmentfault.css'
 

@@ -51,7 +51,7 @@ export default class extends Vue {
     if (!this.isDashboard(first)) {
       const dashboard: RouteRecord = {
         path: '/dashboard',
-        meta: { title: 'dashboard' },
+        meta: { title: '首页' },
         regex: undefined,
         components: {},
         instances: {},
